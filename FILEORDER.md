@@ -7,7 +7,7 @@ PARENT
 |--css/
 |---lightbox.css
 |-styles/
-|--reset.cdd
+|--reset.css
 |--skeleton.css
 |--layout.css
 |--main.css
